@@ -156,7 +156,7 @@
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
   <project path="packages/apps/Superuser" name="ChainsDD/Superuser" remote="github" revision="2x" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
-  <project path="packages/apps/Usb" name="Atrix-Dev-Team/android_packages_apps_Usb" remote="github" />
+  <project path="packages/apps/Usb" name="CyanogenMod/android_packages_apps_Usb" remote="github" />
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
   <project path="packages/experimental" name="platform/packages/experimental" />
   <project path="packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME" />
